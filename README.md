@@ -1,3 +1,5 @@
+the right code is in main ;the wrong one is in dev ;and when the dev is correct pull in the main directly before another file add pushed
+#################################################################################################################
 -git init
 -git add guess_number.py
 -git commit -m "Guesse the right number"        
@@ -26,3 +28,4 @@ Si tu ne veux pas tout merge, mais juste un commit précis de dev :
 git checkout main
 git cherry-pick <id_du_commit>
 git push origin main
+____________________________________________________________________________________
